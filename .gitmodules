@@ -1,0 +1,3 @@
+[submodule "vendor/oscpack"]
+	path = vendor/oscpack
+	url = https://github.com/RossBencina/oscpack.git
